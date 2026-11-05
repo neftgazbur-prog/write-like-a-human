@@ -20,6 +20,8 @@ npx skills add neftgazbur-prog/write-like-a-human --skill write-like-a-human
 npx skills add neftgazbur-prog/write-like-a-human --list
 ```
 
+Без установщика: скачайте [ZIP-архив последнего релиза](https://github.com/neftgazbur-prog/write-like-a-human/releases/latest/download/write-like-a-human.zip) и распакуйте.
+
 Вручную: скопируйте `SKILL.md`, `LICENSE` и `NOTICE.md` в каталог скилла:
 
 | Агент | Каталог |

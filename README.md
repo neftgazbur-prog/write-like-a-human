@@ -47,6 +47,8 @@ Choose your agent when prompted. To inspect available skills without installing:
 npx skills add neftgazbur-prog/write-like-a-human --list
 ```
 
+Prefer a download? Get [write-like-a-human.zip](https://github.com/neftgazbur-prog/write-like-a-human/releases/latest/download/write-like-a-human.zip) from the latest release and extract it.
+
 For a manual install, copy `SKILL.md`, `LICENSE`, and `NOTICE.md` into a folder named `write-like-a-human` under your agent's skills directory:
 
 | Runtime | Path |
