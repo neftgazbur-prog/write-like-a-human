@@ -1,12 +1,14 @@
 # write-like-a-human ✍️
 
-![type](https://img.shields.io/badge/type-agent%20skill-blue) ![rules](https://img.shields.io/badge/rules-21-green) ![deps](https://img.shields.io/badge/dependencies-none-success)
+![type](https://img.shields.io/badge/type-agent%20skill-blue) ![rules](https://img.shields.io/badge/rules-21-green) ![deps](https://img.shields.io/badge/dependencies-none-success) [![GitHub Repo stars](https://img.shields.io/github/stars/neftgazbur-prog/write-like-a-human?style=social)](https://github.com/neftgazbur-prog/write-like-a-human/stargazers)
 
 > An agent skill that rewrites machine-flavored prose into text a human would actually own up to.
 
 LLMs write recognizably. Everything matters enormously. Sources vaguely agree. Sentences march in threes. Every other clause is bolted on with an em dash, and the piece ends with "In conclusion, X continues to thrive." Human readers — and Wikipedia's editors, who maintain entire field guides on the subject — spot it within a paragraph.
 
 **write-like-a-human** gives your coding or writing agent a repeatable de-AI pass: one regex sweep, 21 tell-and-fix rules, and a positive style pass that fills the vacuum with what human prose actually does.
+
+If it cleaned up a draft of yours, **give it a star ⭐** — it helps other writers find the skill.
 
 ## What the skill does
 
